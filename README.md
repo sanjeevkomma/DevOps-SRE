@@ -35,7 +35,7 @@
 
 # DevOps Types of Tools
 |#SNo| #Type | #Tools |
-| :---:| :---: | :---: | 
+| :---| :--- | :--- | 
 |1 |  Version Control tools | GitHub, Bitbucket, GitLab |
 |2 |  Container Management tools | Docker, Kubernetes , Mesos |
 |3 |  Application Performance Monitoring tools  | Prometheus, Grafana , Dynatrace, AppDynamics |
