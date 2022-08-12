@@ -12,6 +12,7 @@
 # Commands
 1. $ gradlew build == To build
 2. $ gradlew --version == To know Gradle version
+3. $ gradlew clean test -Dmymessage='Hello developer, you are awesome!'
 
 # Reference
 1. [Gradle Wrapper Official](https://docs.gradle.org/current/userguide/gradle_wrapper.html)
