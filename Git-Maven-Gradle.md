@@ -7,7 +7,7 @@
 # IV) Gradle Wrapper
 # To Read
 1. gradlew = gradlew.bat
-# Commmands
+# Commands
 1. $ gradlew build == To build
 
 # Reference
