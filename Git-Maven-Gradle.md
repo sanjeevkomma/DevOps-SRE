@@ -7,6 +7,8 @@
 # IV) Gradle Wrapper
 # To Read
 1. gradlew = gradlew.bat
+2. To set project properties , we should use "-P"
+3. To set system properties, we should use "-D"
 # Commands
 1. $ gradlew build == To build
 
