@@ -13,6 +13,7 @@
 1. $ gradlew build == To build
 2. $ gradlew --version == To know Gradle version
 3. $ gradlew clean test -Dmymessage='Hello developer, you are awesome!'
+4. $ gradlew clean == To clean the project
 
 # Reference
 1. [Gradle Wrapper Official](https://docs.gradle.org/current/userguide/gradle_wrapper.html)
