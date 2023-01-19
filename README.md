@@ -66,6 +66,7 @@
 
 # Reference
 * [Waterfall to Agile to DevOps](https://www.youtube.com/watch?v=hnk006-Vw9g&list=PLBBog2r6uMCS0FX6Ym_8NYeTNykUF5970&index=4)
+* [CI/CD In 5 Minutes](https://www.youtube.com/watch?v=42UP1fxi2SY)
 
 # YouTube Links to learn Devops
 1) Linux :
