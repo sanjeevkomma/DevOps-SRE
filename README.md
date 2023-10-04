@@ -72,7 +72,40 @@
 |1 |  Ansible |    An open-source automation tool for configuration management, application deployment, and task automation |
 |2 |  Puppet |    A configuration management tool for automating the provisioning and management of infrastructure |
 |3 |  Chef |    An automation platform that manages infrastructure as code |
-
+# Infrastructure as Code (IaC)
+|#SNo| #Technology | #Intent |
+| :---| :--- | :--- | 
+|1 |  Terraform |    An open-source IaC tool that allows you to define and provision infrastructure using a declarative configuration language |
+|2 |  AWS CloudFormation |    Amazon Web Services' IaC service for defining and provisioning AWS infrastructure |
+|3 |  Azure Resource Manager (ARM) Templates |    Microsoft Azure's IaC solution |
+# Monitoring and Logging
+|#SNo| #Technology | #Intent |
+| :---| :--- | :--- | 
+|1 |  Prometheus | An open-source monitoring and alerting toolkit designed for reliability and scalability |
+|2 |  Grafana | An open-source analytics and monitoring platform that integrates with various data sources, including Prometheus |
+|3 |  ELK Stack (Elasticsearch, Logstash, Kibana) | A combination of tools used for centralized logging and log analysis |
+# Collaboration and Communication
+|#SNo| #Technology | #Intent |
+| :---| :--- | :--- | 
+|1 |  Slack | A popular team collaboration platform for communication and file sharing |
+|2 |  Microsoft Teams | A collaboration platform integrated with the Microsoft 365 suite |
+|3 |  Jira | A project management and issue tracking tool used for agile development and DevOps |
+# Artifact Repository
+|#SNo| #Technology | #Intent |
+| :---| :--- | :--- | 
+|1 |  Nexus | A repository manager used for hosting and managing binary artifacts |
+|2 |  Artifactory | A universal binary repository manager that supports various package formats |
+# Security and Compliance
+|#SNo| #Technology | #Intent |
+| :---| :--- | :--- | 
+|1 |  OWASP ZAP |An open-source security testing tool used for finding vulnerabilities in web applications |
+|2 |  SonarQube |A platform for continuous inspection of code quality to identify security issues and code smells |
+# Continuous Testing
+|#SNo| #Technology | #Intent |
+| :---| :--- | :--- | 
+|1 |  Selenium | An open-source tool for automating web application testing |
+|2 |  JUnit |  A popular testing framework for Java applications |
+|3 |  TestNG | A testing framework inspired by JUnit but with additional features |
 
 # Terminology
 * CI - Continuous Integration 
