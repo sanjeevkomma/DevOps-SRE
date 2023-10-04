@@ -54,6 +54,25 @@
 |2 |  Travis CI | A cloud-based CI/CD service that automates the building and testing of code |
 |3 |  CircleCI | A cloud-based CI/CD platform that automates the software development process |
 |4 |  GitLab CI/CD | Part of the GitLab platform, it provides integrated CI/CD capabilities |
+# Version Control
+|#SNo| #Technology | #Intent |
+| :---| :--- | :--- | 
+|1 |  Git |  The most popular distributed version control system used for tracking changes in source code |
+|2 |  GitHub |  A web-based platform for hosting and collaborating on Git repositories |
+|3 |  GitLab |  A web-based platform for source code management, CI/CD, and more |
+# Containerization and Orchestration
+|#SNo| #Technology | #Intent |
+| :---| :--- | :--- | 
+|1 |  Docker |   A platform for developing, shipping, and running applications in containers |
+|2 |  Kubernetes |   An open-source container orchestration platform for automating the deployment, scaling, and management of containerized applications |
+|3 |  Docker Swarm |   Docker's native clustering and orchestration solution |
+# Configuration Management
+|#SNo| #Technology | #Intent |
+| :---| :--- | :--- | 
+|1 |  Ansible |    An open-source automation tool for configuration management, application deployment, and task automation |
+|2 |  Puppet |    A configuration management tool for automating the provisioning and management of infrastructure |
+|3 |  Chef |    An automation platform that manages infrastructure as code |
+
 
 # Terminology
 * CI - Continuous Integration 
