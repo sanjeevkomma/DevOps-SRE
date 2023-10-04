@@ -46,6 +46,15 @@
 |8 |  Artifact Management tools | Sonatype NEXUS, JFRog Artifactory, CloudRepo  |
 |9 |  Codeless Test Automation tools  | AccelQ , Appvance , Testim.io  |
 
+# DevOps Technologies
+# Continuous Integration (CI) and Continuous Deployment (CD)
+|#SNo| #Technology | #Intent |
+| :---| :--- | :--- | 
+|1 |  Jenkins | An open-source automation server for building, testing, and deploying code |
+|2 |  Travis CI | A cloud-based CI/CD service that automates the building and testing of code |
+|3 |  CircleCI | A cloud-based CI/CD platform that automates the software development process |
+|4 |  GitLab CI/CD | Part of the GitLab platform, it provides integrated CI/CD capabilities |
+
 # Terminology
 * CI - Continuous Integration 
 * CD - Continuous Deployment 
