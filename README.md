@@ -246,6 +246,35 @@ https://lnkd.in/d9jQ6cmN
 26. Amazon Web Services (AWS): CloudFormation
 https://lnkd.in/dAc65c-H
 
+# Roadmap for DevOps:
+1. Programming:
+  Languages: Python, Bash, Ruby, Go, and/or JavaScript.
+  Version Control: Git (GitHub, GitLab, Bitbucket).
+2. Server Administration:
+  Operating Systems: Linux (Ubuntu, CentOS, Debian).
+  Configuration Management: Ansible, Puppet, or Chef.
+  Containerization: Docker.
+3. Network Security:
+  Firewalls: iptables (Linux), pf (BSD), or cloudbased firewalls.
+  VPN: OpenVPN, IPsec.
+  Security Best Practices: Regular security audits, vulnerability scanning, and penetration testing.
+4. Servers (Web, Database, Caching):
+  Web Servers: Apache, Nginx.
+  Databases: MySQL, PostgreSQL, MongoDB.
+  Caching: Redis, Memcached.
+5. Infrastructure as a Service (IaaS):
+  Cloud Providers: AWS, Azure, Google Cloud Platform.
+  Infrastructure Orchestration: Terraform.
+6. Continuous Integration/Continuous Deployment (CI/CD):
+  CI Tools: Jenkins, GitLab CI, Travis CI.
+  CD Tools: Ansible, Kubernetes, Docker.
+7. Monitoring and Logging:
+  Monitoring Tools: Prometheus, Grafana, Nagios.
+  Logging: ELK Stack (Elasticsearch, Logstash, Kibana), Splunk.
+8. Clouds:
+  Cloud Services: AWS (EC2, S3, RDS, Lambda), Azure, GCP.
+  Serverless Computing: AWS Lambda, Azure Functions.
+
 # Images
 1. DevOps Road Map
 * ![image](https://github.com/sanjeevkomma/DevOps/assets/7721150/dd19c44f-7f56-4a05-9e01-40be7d4fcbad)
