@@ -276,6 +276,7 @@ https://lnkd.in/dAc65c-H
   Serverless Computing: AWS Lambda, Azure Functions.
 
 # Images
-1. DevOps Road Map
 * ![image](https://github.com/sanjeevkomma/DevOps/assets/7721150/dd19c44f-7f56-4a05-9e01-40be7d4fcbad)
+* ![image](https://github.com/sanjeevkomma/DevOps/assets/7721150/96a85b8d-5f50-4367-b3e5-6014adffff93)
+
 
