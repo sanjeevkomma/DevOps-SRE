@@ -27,3 +27,7 @@ terraform init
 terraform plan
 terraform apply
 ```
+
+# Imagages
+* ![image](https://github.com/user-attachments/assets/8a33288a-0688-45c8-a86e-415032be1c52)
+
