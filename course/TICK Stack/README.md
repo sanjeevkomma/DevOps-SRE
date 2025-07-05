@@ -9,7 +9,8 @@
 | 🚨 **Kapacitor**                  | Real-time **alerting/stream processing**       | Triggers alerts or actions on thresholds or anomalies                     |
 
 # 🔁 How They Work Together
+```less
 [ Telegraf ]  -->  [ InfluxDB ]  -->  [ Grafana ]
        |
        -->  [ Kapacitor (alerts)]
-
+```
