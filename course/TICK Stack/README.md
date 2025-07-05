@@ -14,3 +14,22 @@
        |
        -->  [ Kapacitor (alerts)]
 ```
+
+* Telegraf collects metrics from hosts/services/logs
+* Sends them to InfluxDB
+* Kapacitor subscribes to Influx data and triggers alerts based on rules
+* Grafana visualizes metrics pulled from InfluxDB
+* Cymatics may be a custom layer or internal UI built on top of the same stack
+
+# 🔔 Example Use Case
+Let’s say you want to monitor API latency:
+
+    Telegraf uses an http_response input plugin to ping your API
+
+    It sends response time metrics to InfluxDB
+
+    Grafana shows real-time latency graphs
+
+    Kapacitor sends an alert (email, Slack, webhook) if latency exceeds 500ms for 3 consecutive checks
+
+    Cymatics might provide a custom dashboard to correlate this with deployments or business impact
