@@ -7,3 +7,9 @@
 | 📊 **InfluxDB**                   | **Time-series database**                       | Stores metrics (CPU, memory, application logs, custom stats)              |
 | 📈 **Grafana**                    | Visualization layer (pulls from InfluxDB)      | Dashboard UI for graphs, charts, trends                                   |
 | 🚨 **Kapacitor**                  | Real-time **alerting/stream processing**       | Triggers alerts or actions on thresholds or anomalies                     |
+
+# 🔁 How They Work Together
+[ Telegraf ]  -->  [ InfluxDB ]  -->  [ Grafana ]
+       |
+       -->  [ Kapacitor (alerts)]
+
