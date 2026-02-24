@@ -8,6 +8,7 @@
 
 
 # Common Architecute
+```java
 BFF
  ├── OpenTelemetry (instrumentation)
  │
@@ -16,3 +17,4 @@ BFF
  │     Grafana (dashboards)
  │
  └── New Relic ← traces + APM + alerts
+```
